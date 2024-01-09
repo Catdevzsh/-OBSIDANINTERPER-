@@ -1,7 +1,4 @@
-# -OBSIDANINTERPER-
-1.0 - Leverages human mind to your terminal 
-Certainly! I'll incorporate the MIT license and specify compatibility with GPT-4, GPT-3, and Gemini PRO in the README template. Here's the updated version:
-
+# -OBSIDANINTERPER- 
 OBSIDANINTERPER
 
 Introduction
